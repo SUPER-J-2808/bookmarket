@@ -1,0 +1,5 @@
+/* Companion to Tailwind — smooth text */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
